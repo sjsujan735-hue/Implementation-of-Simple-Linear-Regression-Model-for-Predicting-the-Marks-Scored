@@ -75,12 +75,89 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+
+
+
+
+
 # Dataset:
 <img width="207" height="335" alt="image" src="https://github.com/user-attachments/assets/5a7da763-08ca-45f3-9fb7-e096fa3566f4" />
+
+
+
+
+
+
+
+
 # Values:
 <img width="343" height="242" alt="image" src="https://github.com/user-attachments/assets/247b4dba-a26d-49c3-8fdb-601c4366f61d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Training set:
 <img width="493" height="375" alt="image" src="https://github.com/user-attachments/assets/40517ae4-873d-404a-9bf9-3050b3009341" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Testing and MSE,MAE and RMSE:
 <img width="526" height="446" alt="image" src="https://github.com/user-attachments/assets/55d81243-d74f-4eb6-97d5-f17662301f39" />
 
